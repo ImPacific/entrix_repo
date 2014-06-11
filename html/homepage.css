@@ -1,0 +1,143 @@
+
+.header{
+	background-color:#BFEFFF;
+	position:relative;
+	font-family:Helvetica;
+	text-align:center;
+	font-size:100px;
+	font-weight:bold;
+	color:#333;
+	border-radius:15px;
+	/*margin-top:50px;*/
+
+}
+
+
+.footer{
+	
+	position:absolute;
+	color:#888;
+	display:block;
+	height:95px;
+	margin-top:250px ;
+	text-align:center;
+	width:99%;
+	z-index:0;
+	font-size:12px;
+	font-family:Helvetica;
+	
+	
+
+}
+.footer a{
+	text-decoration:none;
+	font-family:Helvetica;
+	font-size:12px;
+	color:#888;
+	
+}
+
+.hr_top{
+	width:100%;
+	height: 5px;
+	background-color:#333;	/*check the color and type...solid dashed???*/
+	border-radius:5px;
+}
+
+ .abc a{
+	
+	position:relative;
+	text-decoration:none;
+	font-family:Helvetica;
+	font-weight:bold;
+	color: #333;
+	padding:7px;
+	margin: 2px;
+	}
+.abc a:hover{
+	background-color:#EEC591;
+	color:#333;
+	border-radius:5px;
+}	
+
+
+.main-content-center{
+	padding:30px 40px 100px 40px;
+	/*margin:0px 175px;*/
+	background-color:white;
+	max-height:282px;
+}
+
+
+.facebook-notif{
+	background-color:#FCF8E3;
+	color:#C09853;
+	border: 1px solid #FBEED5;
+	padding: 8px 35px 8px 14px;
+	/*font-size:15px;*/
+	border-radius:5px;
+	font-family:Helvetica;
+	-webkit-border-radius:5px;
+	-moz-border-radius: 5px;
+}
+
+.facebook-notif a{
+	text-decoration:none;
+	font-weight:bold;
+	color:#C09853;
+}
+
+.facebook-notif a:hover{
+	text-decoration:underline;
+}
+
+.contents{
+	position:relative;
+	margin: 20px 0px 20px;
+	/*padding:8px 35px 8px 14px;*/
+	background-color:#FCF8E3;
+	color:#C09853;
+	border:1px solid #FBEED5;
+	border-radius:5px;
+	font-family:Helvetica;
+}
+
+.bottom_hr{
+	width:100%;
+	height:5px;
+	background-color:#333;
+	border-radius:5px;
+}
+
+
+.dfooter{
+	background-color:#FBEED5;
+	text-align:center;
+	text-decoration:none;
+	font-family:Helvetica;				/*keep only one either dfooter or footer!!!!!!*/
+	font-size:12px;
+	color:#888;
+
+}
+.dfooter a{
+	
+	text-decoration:none;
+	font-family:Helvetica;
+	font-size:12px;
+	color:#888;
+}
+
+
+.fb_connect img{
+	position:absolute;
+	margin-left:0px;
+	max-height:50px;
+	max-width:50px;
+	
+}
+
+.fb_connect img{
+	margin-top:-10px;
+	margin-left:550px;
+
+}

@@ -1,0 +1,25 @@
+.h1  
+{
+	font-family: Helvetica;
+	padding: 35px ;
+	
+	
+}
+
+.form-main{
+	font-family:Helcetica;
+	position:relative;
+	background-color:#FBEED5;
+	color:#C09853;
+	padding: 10px 35px 8px 14px; /*top-right-bottom-left*/
+	border-radius: 30px;
+	border: 1px solid #C09853;
+}
+
+.table{
+	font-family:Helvetica;
+	font-size:18px;
+	color:#C09853;
+	
+
+}
