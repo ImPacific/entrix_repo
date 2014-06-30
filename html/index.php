@@ -1,6 +1,7 @@
 <?php
 		include('../templates/header.php');
 ?>
+
 	<section class="main-content-center">
 	
 		<div class="facebook-notif">
@@ -45,5 +46,5 @@
 		</div>
 	</section>	
 <?php 
-	require_once('../templates/footer.php');
+	include('../templates/footer.php');
 ?>

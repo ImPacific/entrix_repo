@@ -1,6 +1,6 @@
 <?php
-	require_once('../templates/header.php');
- ?>
+	include('../templates/header.php');
+?> 
  
  <div class="contents">
  <form method="post" action = "registered.php">
@@ -26,6 +26,7 @@
 	</table>
 </form>
 </div>
+
 <?php 
-	require_once('../templates/footer.php');
+	include('../templates/footer.php');
  ?>
