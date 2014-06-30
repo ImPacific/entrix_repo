@@ -1,4 +1,4 @@
 entrix_repo
 ===========
 
-small project to under git
+small project to understand git
