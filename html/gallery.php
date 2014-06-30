@@ -2,16 +2,16 @@
 	require_once('../templates/header.php')
 ?>
 <div class="contents">
-<img src = "facebook.png"></img>
-</div>
-<div id="cp_widget_6212ebb6-dba3-40ce-8c02-dd9b618b65e2">...</div><script type="text/javascript">
-var cpo = []; cpo["_object"] ="cp_widget_6212ebb6-dba3-40ce-8c02-dd9b618b65e2"; cpo["_fid"] = "AsCAOyLdmWp7";
+
+
+<div id="cp_widget_eb46a91a-80ed-4b2d-888d-ad0e7cba01ca">...</div><script type="text/javascript">
+var cpo = []; cpo["_object"] ="cp_widget_eb46a91a-80ed-4b2d-888d-ad0e7cba01ca"; cpo["_fid"] = "AwOAby7poa0w";
 var _cpmp = _cpmp || []; _cpmp.push(cpo);
 (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
 cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
 var c = document.getElementsByTagName("script")[0];
-c.parentNode.insertBefore(cp, c); })(); </script>
-
+c.parentNode.insertBefore(cp, c); })(); </script><noscript>Powered by Cincopa <a href='http://www.cincopa.com/video-hosting'>Video Streaming Hosting</a> solution.
+</div>
 
 
 
