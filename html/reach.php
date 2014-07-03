@@ -40,31 +40,7 @@
  <td>Archana Bani</td>
  <td>Overall coordinator</td>
  </tr>
- 
- <tr>
- <td>Sahil Agarwal</td>
- <td>Systems coordinator</td>
- </tr>
- <tr>
- 
- <td>Aditya Misuriya</td>
- <td>External coordinator</td>
- </tr>
- <tr>
- 
- <td>Vedant Bais</td>
- <td>External coordinator</td>
- </tr>
- 
- <tr>
- <td>Suraj Mishra</td>
- <td>External coordinator</td>
- </tr>
- 
- <tr>
- <td>Khemant Gupta</td>
- <td>External coordinator</td>
- </tr>
+
  </table>
  
  <h3> MATLAB COMMITTEE </h3>

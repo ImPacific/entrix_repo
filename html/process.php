@@ -18,8 +18,9 @@
 			$pos = $_POST['one'];
 			$Q1 = $_POST['q1'];
 			$Q2 = $_POST['q2'];
-			
-					
+				if(empty($name) && empty($pos) && empty($Q1) && empty($Q2)){
+					die ("Please fill all the fields");
+				}
 					
 			//insert data into table. SEE THE QUOTES ` and ' !!!!!!
 			$order = "INSERT INTO feedback
