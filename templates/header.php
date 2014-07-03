@@ -2,7 +2,7 @@
 	<head>
 		<meta name="viewport" content="width=device-width">
 		<title> Entrix | 6.0 </title>
-		<link rel="stylesheet" href="homepage.css" type="text/css" />
+		<link rel="stylesheet" href="css/homepage.css" type="text/css" />
 	</head>	
 <header class="header">
 	This is Entrix.

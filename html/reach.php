@@ -4,48 +4,44 @@
  
  <div class="contents">
  <h3> CORE COMMIITEE MEMBERS </h3>
- <table border="1" color="red" style="none">
- <tr>
-	<td>Name</td>
-	<td>Post</td>
- </tr>
+ <table class="core_table" style="none">
  
  <tr>
  <td>Hitesh Sawlani</td>
- <td>Overall coordinator</td>
+ <td>- Overall coordinator</td>
  </tr>
  
  <tr>
  <td>Heena Dafade</td>
- <td>Overall coordinator</td>
+ <td>- Overall coordinator</td>
  </tr>
  
  <tr>
  <td>Prakhar Jain</td>
- <td>Overall coordinator</td>
+ <td>- Overall coordinator</td>
  </tr>
  
  
  <tr>
  <td>Shashank Jain</td>
- <td>Overall coordinator</td>
+ <td>- Overall coordinator</td>
  </tr>
  
  <tr>
  <td>Pratik Jhawar</td>
- <td>Overall coordinator</td>
+ <td>- Overall coordinator</td>
  </tr>
  
  <tr>
  <td>Archana Bani</td>
- <td>Overall coordinator</td>
+ <td>- Overall coordinator</td>
  </tr>
+</table>
 
- </table>
- 
+  
  <h3> MATLAB COMMITTEE </h3>
  
- <table>
+ <table class="table">
  <tr>
  <td>Divya Tekwani</td>
  </tr>
@@ -80,7 +76,7 @@
 </table> 
 
 <h3>ORCAD COMMITTEE</h3>
-<table>
+<table class="table">
  <tr>
  <td>Tanay Joshi</td>
  </tr>
@@ -123,7 +119,7 @@
  </table>
  
  <h3>BE & VHDL COMMITTEE</h3>
- <table>
+ <table class="table">
  <tr>
  <td>Vishala  Nakade</td>
  </tr> 
@@ -166,7 +162,7 @@
  </table>
  
  <h3>EMBEDDED SYSTEMS :</h3>
- <table>
+ <table class="table">
  <tr>
  <td>Rahul Kurzekar</td>
  </tr>

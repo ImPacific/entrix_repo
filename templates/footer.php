@@ -1,7 +1,7 @@
 <footer class="footer">
-	<img src="hr.jpg"></img>
+	<img src="images/hr.jpg"></img>
 	<div class="fb_connect">
-	<a href="https://www.facebook.com/groups/electrolitz/?ref=ts&fref=ts"><img src="facebook.png"></img></a>
+	<a href="https://www.facebook.com/groups/electrolitz/?ref=ts&fref=ts"><img src="images/facebook.png"></img></a>
 	</div>
 	<!--<div class="dfooter">-->
 	Site Developed and Maintained by: </br>

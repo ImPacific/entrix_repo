@@ -1,7 +1,7 @@
 <?php
 	require_once('../templates/header.php');
 ?>
-		<link rel="stylesheet" type="text/css" href="feedback.css"> </link>
+		<link rel="stylesheet" type="text/css" href="css/feedback.css"> </link>
 
 			<div style="text-align: center">
 			<h1 class="h1"> Your Feedback Here </h1>
