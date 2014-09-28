@@ -28,7 +28,7 @@
 				</p>
 			
 				<li>If you'd like to submit to this year's commiitee, head to <a href="register.php"> submit </a></li>
-				<li>Also, If interested join our <a href="https://www.facebook.com/groups/electrolitz/?ref=ts&fref=ts" target="blank">facebook</a> group. </li>
+				<li>Also, If interested join our <a href="https://www.facebook.com/groups/electrolitz/?ref=ts&fref=ts" target="_blank">facebook</a> group. </li>
 				<li>Looking for Electrolitz? <a href="http://www.electrolitz.in">Go here!!!</a></li>
 			 </ul>	
 		</div>
@@ -42,6 +42,8 @@
 				<li>AVR programming</li>
 				<li>Image Processing</li>
 				<li>Microprocessor Basics</li>
+				<li>Orcad</li>
+				<li>VHDL</li>
 			</ul>
 		</div>
 	</section>	
