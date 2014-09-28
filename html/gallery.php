@@ -10,7 +10,7 @@ var _cpmp = _cpmp || []; _cpmp.push(cpo);
 (function() { var cp = document.createElement("script"); cp.type = "text/javascript";
 cp.async = true; cp.src = "//www.cincopa.com/media-platform/runtime/libasync.js";
 var c = document.getElementsByTagName("script")[0];
-c.parentNode.insertBefore(cp, c); })(); </script><noscript>Powered by Cincopa <a href='http://www.cincopa.com/video-hosting'>Video Streaming Hosting</a> solution.
+c.parentNode.insertBefore(cp, c); })(); </script>
 </div>
 
 
