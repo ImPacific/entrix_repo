@@ -19,14 +19,12 @@
 	color:#888;
 	display:block;
 	height:95px;
-	margin-top:250px ;
+	margin-top:250px;
 	text-align:center;
 	width:99%;
-	z-index:0;
+	z-index:-1;
 	font-size:12px;
-	font-family:Helvetica;
-	
-	
+	font-family:Helvetica;	
 
 }
 .footer a{
@@ -149,16 +147,6 @@
 	
 }
 
-.core_contents{
-	position:relative;
-	margin: 20px 400px 20px;
-	/*padding:8px 35px 8px 14px;*/
-	background-color:#FCF8E3;
-	color:#C09853;
-	border:1px solid #FBEED5;
-	border-radius:5px;
-	font-family:Helvetica;
-}
 
 .core_table{
 	

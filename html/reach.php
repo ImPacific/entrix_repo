@@ -4,7 +4,7 @@
  
  <div class="contents">
  <h3> CORE COMMIITEE MEMBERS </h3>
- <table class="core_table" style="none">
+ <table class="table" style="none">
  
  <tr>
  <td>Hitesh Sawlani</td>
@@ -23,17 +23,17 @@
  
  
  <tr>
- <td>Shashank Jain</td>
+ <td><a href="https://www.facebook.com/shashankjain4">Shashank Jain</a></td>
  <td>- Overall coordinator</td>
  </tr>
  
  <tr>
- <td>Pratik Jhawar</td>
+ <td><a href="https://www.facebook.com/pratik.jhawar.16">Pratik Jhawar</a></td>
  <td>- Overall coordinator</td>
  </tr>
  
  <tr>
- <td>Archana Bani</td>
+ <td><a href="https://www.facebook.com/archana.bani">Archana Bani</a></td>
  <td>- Overall coordinator</td>
  </tr>
 </table>
@@ -43,19 +43,19 @@
  
  <table class="table">
  <tr>
- <td>Divya Tekwani</td>
+ <td><a href="https://www.facebook.com/divya.tekwani.902">Divya Tekwani</a></td>
  </tr>
  
  <tr>
- <td>Mayur Agarwal</td>
+ <td><a href="https://www.facebook.com/">Mayur Agarwal</a></td>
  </tr>
  
  <tr>
- <td>Arun pratap singh</td>
+ <td><a href="https://www.facebook.com/">Arun pratap singh</a></td>
  </tr>
  
  <tr>
- <td>Soniya Varyani</td>
+ <td><a href="https://www.facebook.com/soniya.varyani.3">Soniya Varyani</a></td>
  </tr>
  
  <tr>
@@ -90,7 +90,7 @@
  </tr>
  
  <tr>
- <td>Anjali Rathi</td>
+ <td><a href="https://www.facebook.com/anjali.rathi.7">Anjali Rathi</a></td>
  </tr>
  
  <tr>
@@ -129,7 +129,7 @@
  </tr> 
  
  <tr>
- <td>Namrata  Shrote</td>
+ <td><a href="https://www.facebook.com/namratashrote">Namrata  Shrote</a></td>
  </tr> 
  
  <tr>
@@ -141,7 +141,7 @@
  </tr> 
  
  <tr>
- <td>Gauri  Sarpotdar</td>
+ <td><a href="https://www.facebook.com/gauri.sarpotdar.3">Gauri  Sarpotdar</a></td>
  </tr>
  
  <tr>
@@ -157,7 +157,7 @@
  </tr>
  
  <tr>
- <td>Shreejit Nair</td>
+ <td><a href="https://www.facebook.com/shreejit.nair.9">Shreejit Nair</a></td>
  </tr>
  </table>
  
@@ -168,7 +168,7 @@
  </tr>
  
  <tr>
- <td>Abhishek Gupta</td>
+ <td><a href="https://www.facebook.com/Abhicoool">Abhishek Gupta</a></td>
  </tr>
  
  <tr>
@@ -187,6 +187,12 @@
  <td>Arnab Sarkar</td>
  </tr>
  
+ </table>
+ <h3> <a id ="web">Website and Maintanance </a></h3>
+ <table class="table">
+ <tr>
+ <td>Prashant Gurumukhi</td>
+ </tr>
  </table>
  </div>
  
