@@ -27,8 +27,8 @@
 				The students are provided with an Entrix manual, a DVD, various other components, and a T-Shirt.
 				</p>
 			
-				<li>If you'd like to submit to this year's commiitee, head to <a href="register.php"> submit <a/></li>
-				<li><a href="entrix.com/psets">Last year's project </a></li>
+				<li>If you'd like to submit to this year's commiitee, head to <a href="register.php"> submit </a></li>
+				<li>Also, If interested join our <a href="https://www.facebook.com/groups/electrolitz/?ref=ts&fref=ts" target="blank">facebook</a> group. </li>
 				<li>Looking for Electrolitz? <a href="http://www.electrolitz.in">Go here!!!</a></li>
 			 </ul>	
 		</div>
